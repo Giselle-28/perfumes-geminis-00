@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "nombre": "Administrador",
+      "isAdmin": true,
+      "isActive": true
+    },
+    {
+      "username": "vendedor",
+      "password": "vendedor123",
+      "nombre": "Vendedor",
+      "isAdmin": false,
+      "isActive": false
+    }
+  ]
+}

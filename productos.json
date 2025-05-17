@@ -1,0 +1,343 @@
+[
+  {
+    "id": 1,
+    "nombre": "Blue De Channel",
+    "marca": "Channel",
+    "precio": 2500,
+    "imagen": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tipo": "masculino",
+    "descripcion": "Una fragancia fresca y elegante para hombres.",
+    "arabe": false
+  },
+  {
+    "id": 2,
+    "nombre": "Miss Dior",
+    "marca": "Dior",
+    "precio": 2800,
+    "imagen": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "femenino",
+    "descripcion": "Un perfume floral y sofisticado para mujeres.",
+    "arabe": false
+  },
+  {
+    "id": 3,
+    "nombre": "CK One",
+    "marca": "Calvin Klein",
+    "precio": 1900,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tipo": "unisex",
+    "descripcion": "Una fragancia fresca y unisex para todos.",
+    "arabe": false
+  },
+  {
+    "id": 4,
+    "nombre": "Sauvage",
+    "marca": "Dior",
+    "precio": 3200,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Un perfume intenso y masculino con notas amaderadas.",
+    "arabe": false
+  },
+  {
+    "id": 5,
+    "nombre": "Bloom",
+    "marca": "Gucci",
+    "precio": 2900,
+    "imagen": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "femenino",
+    "descripcion": "Una fragancia floral y elegante para mujeres.",
+    "arabe": false
+  },
+  {
+    "id": 6,
+    "nombre": "Luna",
+    "marca": "Natura",
+    "precio": 2100,
+    "imagen": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "unisex",
+    "descripcion": "Un perfume suave con notas cítricas y amaderadas.",
+    "arabe": false
+  },
+  {
+    "id": 7,
+    "nombre": "Arabian Nights",
+    "marca": "Lattafa",
+    "precio": 3500,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Una fragancia árabe intensa con oud y especias.",
+    "arabe": true
+  },
+  {
+    "id": 8,
+    "nombre": "Desert Rose",
+    "marca": "Armaf",
+    "precio": 3200,
+    "imagen": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "femenino",
+    "descripcion": "Un perfume árabe floral con toques orientales.",
+    "arabe": true
+  },
+  {
+    "id": 9,
+    "nombre": "Oud Majestic",
+    "marca": "Al Haramain",
+    "precio": 4200,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume de oud premium con tonos de madera y especias.",
+    "arabe": true
+  },
+  {
+    "id": 10,
+    "nombre": "Amber Aura",
+    "marca": "Rasasi",
+    "precio": 3800,
+    "imagen": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "unisex",
+    "descripcion": "Perfume árabe unisex con base de ámbar y vainilla.",
+    "arabe": true
+  },
+  {
+    "id": 11,
+    "nombre": "212 VIP",
+    "marca": "Carolina Herrera",
+    "precio": 3600,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Fragancia masculina con notas de caviar limón y menta.",
+    "arabe": false
+  },
+  {
+    "id": 12,
+    "nombre": "Black Opium",
+    "marca": "Yves Saint Laurent",
+    "precio": 4100,
+    "imagen": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "femenino",
+    "descripcion": "Perfume adictivo con café, vainilla y flores blancas.",
+    "arabe": false
+  },
+  {
+    "id": 13,
+    "nombre": "Santal Royal",
+    "marca": "Guerlain",
+    "precio": 4500,
+    "imagen": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "unisex",
+    "descripcion": "Fragancia oriental unisex con sándalo y jazmín.",
+    "arabe": false
+  },
+  {
+    "id": 14,
+    "nombre": "Rose Elixir",
+    "marca": "Montale",
+    "precio": 3900,
+    "imagen": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "femenino",
+    "descripcion": "Intenso perfume de rosas con notas de frutas y almizcle.",
+    "arabe": false
+  },
+  {
+    "id": 15,
+    "nombre": "Sahara Noir",
+    "marca": "Afnan",
+    "precio": 3600,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Fragancia inspirada en el desierto con notas de cuero y oud.",
+    "arabe": true
+  },
+  {
+    "id": 16,
+    "nombre": "La Vie Est Belle",
+    "marca": "Lancôme",
+    "precio": 3800,
+    "imagen": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "femenino",
+    "descripcion": "Perfume luminoso con iris, pachulí y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 17,
+    "nombre": "Acqua di Gio",
+    "marca": "Giorgio Armani",
+    "precio": 3200,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Fragancia acuática inspirada en el mar mediterráneo.",
+    "arabe": false
+  },
+  {
+    "id": 18,
+    "nombre": "Sublime Amber",
+    "marca": "Swiss Arabian",
+    "precio": 2900,
+    "imagen": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "unisex",
+    "descripcion": "Perfume árabe con ámbar, rosa y notas de madera.",
+    "arabe": true
+  },
+  {
+    "id": 19,
+    "nombre": "Alien",
+    "marca": "Thierry Mugler",
+    "precio": 3900,
+    "imagen": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "femenino",
+    "descripcion": "Fragancia ambarina floral con jazmín sambac.",
+    "arabe": false
+  },
+  {
+    "id": 20,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  }
+  ,
+  {
+    "id": 21,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 22,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 23,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 24,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 25,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 26,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 27,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 28,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 29,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 30,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 31,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 32,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 34,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  },
+  {
+    "id": 35,
+    "nombre": "Eros",
+    "marca": "Versace",
+    "precio": 3400,
+    "imagen": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tipo": "masculino",
+    "descripcion": "Perfume sensual con notas de menta, manzana verde y vainilla.",
+    "arabe": false
+  }
+]
