@@ -103,7 +103,6 @@ productos = data.products; // accedemos a la clave "products"
             producto.marca.toLowerCase().includes(termino) || 
             (producto.descripcion && producto.descripcion.toLowerCase().includes(termino));
         }
-        
         return pasaFiltroCategoria && pasaFiltroBusqueda;
       });
     }

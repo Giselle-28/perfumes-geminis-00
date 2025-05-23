@@ -157,9 +157,6 @@ function renderAdminPanel() {
                 <span id="current-user">${currentUser.nombre}</span>
               </a>
               <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#changePasswordModal">
-                  <i class="fas fa-key me-2"></i>Cambiar contraseña
-                </a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#" id="logout-link">
                   <i class="fas fa-sign-out-alt me-2"></i>Cerrar sesión
@@ -185,9 +182,6 @@ function renderAdminPanel() {
         <li class="nav-item">
           <a class="nav-link active" id="productos-link" href="#">Productos</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" id="importar-link" href="#">Importar Catálogo</a>
-        </li>
       </ul>
       
       <!-- Sección de Productos -->
@@ -208,7 +202,6 @@ function renderAdminPanel() {
             <div class="card p-3">
               <div class="d-flex justify-content-between align-items-center mb-3">
                 <div>
-                  <button id="catalogo-normal" class="btn-catalogo active">Catálogo Básico</button>
                   <button id="catalogo-completo" class="btn-catalogo">Catálogo Completo</button>
                 </div>
                 <div class="col-md-4">

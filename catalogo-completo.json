@@ -401,12 +401,22 @@
   },
   {
     "id": 42,
-    "nombre": "Desert Rose Elite",
-    "marca": "Lattafa",
-    "precio": 2800,
-    "imagen": "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=600",
-    "tipo": "unisex",
-    "descripcion": "Perfume árabe con rosa de Damasco y toques de sándalo.",
+    "nombre": "dfsdz",
+    "marca": "gz<grfzrd",
+    "precio": 23456,
+    "tipo": "femenino",
+    "imagen": "https://simplicityar.vtexassets.com/arquivos/ids/187523/242459_edp-lattafa-asad-x-100-ml_imagen-2.jpg?v=638688530985730000",
+    "descripcion": "ewatgearstg",
+    "arabe": true
+  },
+  {
+    "id": 43,
+    "nombre": "Mon Guerlain",
+    "marca": "gfdzrg",
+    "precio": 12344,
+    "tipo": "masculino",
+    "imagen": "",
+    "descripcion": "rfdeezsdfgredzs",
     "arabe": true
   }
 ]
