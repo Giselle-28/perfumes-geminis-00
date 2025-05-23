@@ -344,7 +344,7 @@ function enviarWhatsApp() {
     return;
   }
   
-  const telefono = "+5491112345678"; // Reemplazar con número real
+  const telefono = "+5491160157837"; // Reemplazar con número real
   let mensaje = "Hola, me gustaría realizar el siguiente pedido:\n\n";
   
   carritoItems.forEach(item => {
